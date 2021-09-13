@@ -61,9 +61,9 @@ curl -X DELETE http://127.0.0.1:5000/kids/3
 
 
 # TODO
-* JSNOIFY responses
-* Check why kids are not being created
+* ~~JSNOIFY responses~~
+* ~~Check why kids are not being created~~
 * Generate documentation with Swagger
-* Specify version in Pipfile
+* Specify versions in Pipfile
 * Testing using the Requests library, Postman tests or something else
-* Move the model classes to a different file
+
